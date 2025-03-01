@@ -1,3 +1,4 @@
 python-telegram-bot==13.7
+mega.py
 # Add any other required dependencies below:
 # example: requests==2.28.1
