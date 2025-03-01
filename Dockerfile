@@ -11,7 +11,7 @@ RUN pip install --no-cache-dir -r requirements.txt
 COPY . .
 
 # Expose port if necessary
-EXPOSE 3000
+EXPOSE 8000
 
 # Start the bot (adjust the command to match your entry point)
 CMD ["python", "bot.py"]
